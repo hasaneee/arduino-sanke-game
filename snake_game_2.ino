@@ -1,3 +1,9 @@
+/*
+* Project Name: Arduino Snake Game (Arduino Project)
+* Author: Mahamudul Hasan
+* Created: 05/11/2020
+*/
+
 // Include Wire Library for I2C
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
